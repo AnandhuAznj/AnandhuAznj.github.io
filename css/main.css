@@ -247,8 +247,6 @@ header {
 }
 
 .logo img {
-    width: 250px;
-    height: 250px;
     text-decoration: none;
     color: #5ecee6;
     font-family: "raleway-regular","lato-bold", Helvetica, Arial, sans-serif;
@@ -574,7 +572,7 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover {
 
 footer {
     padding: 80px 0;
-    background: #5ecee6;
+    background: #ffffff;
 }
 footer .logo h1 {
     text-decoration: none;
