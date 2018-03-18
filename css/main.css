@@ -246,7 +246,7 @@ header {
     background: transparent;
 }
 
-.logo img {
+.logo h1 {
     text-decoration: none;
     color: #5ecee6;
     font-family: "raleway-regular","lato-bold", Helvetica, Arial, sans-serif;
